@@ -1,4 +1,4 @@
-/* 
+;/* 
  * File:   HelloCuda.cu
  * 
  * Created on June 24, 2012
